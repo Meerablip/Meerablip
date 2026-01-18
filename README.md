@@ -1,5 +1,5 @@
 ## Hey, I'm Meera!
-Full-stack developer, getting experience with the PERN stack, currently transitioning into data science and analytics, with a focus on machine learning, AI development, and end-to-end data pipelining...
+A full-stack developer, getting experience with the PERN stack, currently transitioning into data science and analytics, with a focus on machine learning, AI development, and end-to-end data pipelining...
 
 --- 
 
