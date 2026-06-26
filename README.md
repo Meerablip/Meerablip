@@ -1,7 +1,6 @@
 <div align="center">
 Hey, I'm Meera!
  
-*Full-stack by trade, machine learning by obsession — turning data into systems and systems into decisions.*
  
 </div>
 <br>
