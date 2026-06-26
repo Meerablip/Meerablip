@@ -1,10 +1,14 @@
-<div align="center">
-Hey, I'm Meera!
- 
+Hie, I'm Meera!!
+
+
+*I am full stack developer, Deep Learning and Natural Language Processing enthusiast!
+I've built some pretty cool stuff for people
+and some for learning concepts in general.*
+
  
 </div>
 <br>
-Stack
+
  
 **Full-Stack Development**
  
